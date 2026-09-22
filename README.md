@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/loydnyx/loydnyx/blob/main/NameBanner.png"
+    src="https://github.com/loydnyx/loydnyx/blob/main/name.png"
     width="100%"
     alt="John Loyd Uy"
   />
