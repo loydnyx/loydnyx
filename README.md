@@ -4,6 +4,10 @@
 🛠️ Enjoy building custom tools, utility apps, and experimenting with developer workflows and local AI integrations.<br>
 🎨 Creative eye for UI/UX design, layout architecture, and digital visual assets.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/loydnyx/loydnyx/main/Banner.gif" alt="Animated Banner" width="100%">
+</p>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/johnloyd.uy.71) 
