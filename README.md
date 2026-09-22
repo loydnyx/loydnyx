@@ -1,6 +1,10 @@
-<div align="center">
-
-# ＪＯＨＮ　ＬＯＹＤ　ＵＹ．
+<p align="center">
+  <img
+    src="https://github.com/loydnyx/loydnyx/blob/main/NameBanner.png"
+    width="100%"
+    alt="John Loyd Uy"
+  />
+</p>
 
 ### FULL-STACK DEVELOPER · WEB DEVELOPMENT · UI/UX
 
