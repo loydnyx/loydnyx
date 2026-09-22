@@ -208,55 +208,45 @@ databases, APIs, and deployment.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" width="66%" valign="top">
 
 ### Development
 
-- React
-- Next.js
-- JavaScript
-- APIs
-- Databases
-- Application architecture
+React · Next.js · JavaScript  
+APIs · Databases · Application architecture
 
 </td>
 
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 
 ### AI
 
-- Local AI
-- AI-assisted development
-- AI-powered applications
+Local AI · AI-assisted development  
+AI-powered applications
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 
 ### Design
 
-- UI/UX
-- Responsive layouts
-- Motion
-- Visual design
+UI/UX · Responsive layouts  
+Motion · Visual design
 
 </td>
 
-<td width="50%" valign="top">
+<td colspan="2" width="66%" valign="top">
 
 ### Tools & Workflow
 
-- Git
-- GitHub
-- Vercel
-- Cloud platforms
+Git · GitHub · Vercel  
+Cloud platforms · Deployment
 
 </td>
 </tr>
 </table>
-
 ---
 
 <div align="center">
