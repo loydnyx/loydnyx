@@ -5,7 +5,7 @@
 🎨 Creative eye for UI/UX design, layout architecture, and digital visual assets.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/loydnyx/loydnyx/main/Banner.gif" alt="Animated Banner" width="100%">
+  <img src="https://github.com/loydnyx/loydnyx/blob/main/Banner.gif" alt="Animated Banner" width="100%">
 </p>
 
 
