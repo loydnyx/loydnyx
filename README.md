@@ -1,6 +1,6 @@
 <div align="center">
 
-# JOHN LOYD UY
+# JOHN LOYD UY.
 
 ### Full-Stack Developer · UI/UX · Web Development
 
@@ -43,7 +43,6 @@ I work with modern frontend technologies and build:
 - Developer tools
 - Utility apps
 - AI-assisted projects
-- Automation workflows
 
 I also enjoy working on interface design, layout, and visual assets.
 
@@ -114,7 +113,7 @@ React and Next.js applications with responsive layouts and modern UI.
 
 ### Developer Tools
 
-Utilities and tools for development and daily workflows.
+Small utilities and projects for development and daily use.
 
 </td>
 </tr>
@@ -124,7 +123,7 @@ Utilities and tools for development and daily workflows.
 
 ### AI Projects
 
-Projects using local AI, AI-assisted development, and automation.
+Projects using local AI and AI-assisted development.
 
 </td>
 
@@ -171,7 +170,7 @@ width="75%"
 <tr>
 <td width="50%" valign="top">
 
-**Development**
+### Development
 
 - React
 - Next.js
@@ -183,11 +182,11 @@ width="75%"
 
 <td width="50%" valign="top">
 
-**AI & Automation**
+### AI & Automation
 
 - Local AI
-- AI-assisted development
-- Automation workflows
+- AI development
+- Automation
 - AI-powered applications
 
 </td>
@@ -196,7 +195,7 @@ width="75%"
 <tr>
 <td width="50%" valign="top">
 
-**Design**
+### Design
 
 - UI/UX
 - Responsive layouts
@@ -207,7 +206,7 @@ width="75%"
 
 <td width="50%" valign="top">
 
-**Tools**
+### Tools
 
 - Git
 - GitHub
@@ -222,7 +221,7 @@ width="75%"
 
 <div align="center">
 
-### Let's build something.
+## LET'S BUILD SOMETHING.
 
 <a href="https://github.com/loydnyx">
 <img
