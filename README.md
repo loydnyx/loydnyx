@@ -6,10 +6,6 @@
 
 IT Graduate building web applications, utility apps, and AI-assisted projects.
 
-</div>
-
-<br>
-
 <a href="https://github.com/loydnyx">
 <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white">
 </a>
