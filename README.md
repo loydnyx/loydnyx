@@ -133,17 +133,6 @@ APIs, and modern web technologies.
 
 </div>
 
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff">
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=fff">
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=fff">
-</p>
-
----
-
 ## What I Build
 
 <table>
