@@ -2,9 +2,13 @@
 
 # ＪＯＨＮ　ＬＯＹＤ　ＵＹ．
 
-### FULL-STACK DEVELOPER · UI/UX · WEB DEVELOPMENT
+### FULL-STACK DEVELOPER · WEB DEVELOPMENT · UI/UX
 
 IT Graduate building web applications, utility apps, and AI-assisted projects.
+
+Exploring different tools and technologies to build practical solutions.
+
+<br>
 
 <a href="https://github.com/loydnyx">
 <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white">
@@ -33,7 +37,7 @@ alt="John Loyd Uy Developer Banner"
 
 ## About
 
-I'm an IT Graduate focused on web development and UI/UX.
+I'm a Full-Stack Developer focused on web development and UI/UX.
 
 I build and explore:
 
@@ -42,7 +46,9 @@ I build and explore:
 - AI-assisted projects
 - User interfaces and visual designs
 
-I enjoy working with modern web technologies, building interfaces, and turning ideas into working applications.
+I started with small experiments and gradually moved into
+full-stack applications involving authentication, databases,
+APIs, and modern web technologies.
 
 ---
 
