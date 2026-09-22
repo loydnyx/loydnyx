@@ -2,232 +2,242 @@
 
 # JOHN LOYD UY
 
-### FULL-STACK DEVELOPER · UI/UX · CREATIVE TECHNOLOGY
+### Full-Stack Developer · UI/UX · Web Development
 
-**I build interfaces, applications, and tools that turn ideas into working products.**
+Building web applications, developer tools, and AI-assisted projects.
 
 <br>
 
 <a href="https://github.com/loydnyx">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/loydnyx">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.facebook.com/johnloyd.uy.71">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 <a href="https://www.instagram.com/wispy.loydd">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<p align="center">
-  <img
-    src="https://github.com/loydnyx/loydnyx/blob/main/Banner.gif"
-    width="100%"
-    alt="John Loyd Uy Developer Banner"
-  />
-</p>
-
-<br>
-
-<div align="center">
-
-`01 / ABOUT` &nbsp;&nbsp; `02 / STACK` &nbsp;&nbsp; `03 / BUILD` &nbsp;&nbsp; `04 / ACTIVITY`
+<img
+src="https://github.com/loydnyx/loydnyx/blob/main/Banner.gif"
+width="100%"
+alt="John Loyd Uy Developer Banner"
+/>
 
 </div>
 
 ---
 
-# `01` — ABOUT
+## About
+
+I'm a Full-Stack Developer focused on web development and UI/UX.
+
+I work with modern frontend technologies and build:
+
+- Web applications
+- Developer tools
+- Utility apps
+- AI-assisted projects
+- Automation workflows
+
+I also enjoy working on interface design, layout, and visual assets.
+
+---
+
+## Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff">
+</p>
+
+### Cloud & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff">
+<img src="https://img.shields.io/badge/Netlify-000?style=flat-square&logo=netlify&logoColor=00C7B7">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=fff">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=fff">
+</p>
+
+### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff">
+<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=fff">
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=fff">
+</p>
+
+---
+
+## What I Build
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
-## Building beyond the interface.
+### Web Applications
 
-I'm a **Full-Stack Developer** focused on building responsive,
-performant, and visually polished web experiences.
-
-I enjoy working across the entire development process — from
-designing interfaces and structuring applications to connecting
-APIs, databases, deployment platforms, and development tools.
-
-I'm especially interested in:
-
-- Modern web application development
-- UI/UX and visual interface design
-- Developer utilities and productivity tools
-- AI-assisted development
-- Local AI integrations
-- Automation and experimental workflows
+React and Next.js applications with responsive layouts and modern UI.
 
 </td>
 
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
-### CURRENT MODE
+### Developer Tools
 
-STATUS
-● Building
+Utilities and tools for development and daily workflows.
 
-FOCUS
-→ Full-Stack
-→ UI/UX
-→ AI
-→ Automation
+</td>
+</tr>
 
-LOCATION
-→ Philippines
+<tr>
+<td width="50%" valign="top">
 
-STACK
-→ React
-→ Next.js
-→ TypeScript
-</td> </tr> </table>
-02 — TECHNOLOGY
-FRONTEND
-<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </p>
-BACKEND & DATABASE
-<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff"/> </p>
-CLOUD & INFRASTRUCTURE
-<p> <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff"/> <img src="https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff"/> </p>
-DEVELOPMENT TOOLS
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=fff"/> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff"/> </p>
-03 — WHAT I BUILD
-<table> <tr> <td width="50%" valign="top">
-◇ Web Applications
+### AI Projects
 
-Responsive applications built around
-modern frontend architectures.
+Projects using local AI, AI-assisted development, and automation.
 
-React
-Next.js
-Vite
-Tailwind
-TypeScript
-</td> <td width="50%" valign="top">
-◇ Developer Tools
+</td>
 
-Small utilities and custom systems
-designed to make development workflows
-faster and easier.
+<td width="50%" valign="top">
 
-Automation
-Utilities
-APIs
-Workflows
-</td> </tr> <tr> <td width="50%" valign="top">
-◇ AI Experiments
+### UI/UX
 
-Exploring practical applications of AI,
-local models, and AI-assisted workflows.
+Interfaces focused on layout, typography, usability, and visual design.
 
-Local AI
-LLMs
-Automation
-AI Tools
-</td> <td width="50%" valign="top">
-◇ Interface Design
+</td>
+</tr>
+</table>
 
-Designing interfaces where structure,
-interaction, typography, and visual
-identity work together.
+---
 
-UI/UX
-Motion
-Layout
-Visual Systems
-</td> </tr> </table>
-04 — DEVELOPMENT PHILOSOPHY
+## GitHub Activity
+
 <div align="center">
 
-DESIGN IT. BUILD IT. BREAK IT. IMPROVE IT.
+<img
+src="https://github-readme-stats.shion.dev/api?username=loydnyx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"
+width="48%"
+/>
 
-</div> <br> <table> <tr> <td align="center" width="25%">
-01
-
-EXPLORE
-
-Turn ideas into
-something tangible.
-
-</td> <td align="center" width="25%">
-02
-
-BUILD
-
-Create functional
-and usable systems.
-
-</td> <td align="center" width="25%">
-03
-
-ITERATE
-
-Test, experiment,
-and improve.
-
-</td> <td align="center" width="25%">
-04
-
-SHIP
-
-Turn experiments
-into real products.
-
-</td> </tr> </table>
-05 — GITHUB ACTIVITY
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=loydnyx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=loydnyx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="48%" />
+<img
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=loydnyx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
+width="48%"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=loydnyx&theme=tokyonight&hide_border=true" width="75%" />
+<img
+src="https://streak-stats.demolab.com/?user=loydnyx&theme=tokyonight&hide_border=true"
+width="75%"
+/>
 
 </div>
-06 — CURRENTLY EXPLORING
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   FULL-STACK DEVELOPMENT                                     │
-│   ├── React / Next.js                                        │
-│   ├── APIs / Databases                                       │
-│   └── Application Architecture                               │
-│                                                              │
-│   ARTIFICIAL INTELLIGENCE                                    │
-│   ├── Local AI                                                │
-│   ├── AI-assisted development                                │
-│   └── AI-powered applications                                │
-│                                                              │
-│   AUTOMATION                                                  │
-│   ├── Developer workflows                                    │
-│   ├── Process automation                                     │
-│   └── Productivity tools                                     │
-│                                                              │
-│   DESIGN                                                       │
-│   ├── UI / UX                                                 │
-│   ├── Motion                                                  │
-│   └── Visual systems                                          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+
+---
+
+## Currently Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Development**
+
+- React
+- Next.js
+- APIs
+- Databases
+- Application architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+**AI & Automation**
+
+- Local AI
+- AI-assisted development
+- Automation workflows
+- AI-powered applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**Design**
+
+- UI/UX
+- Responsive layouts
+- Motion
+- Visual design
+
+</td>
+
+<td width="50%" valign="top">
+
+**Tools**
+
+- Git
+- GitHub
+- Vercel
+- Cloud platforms
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
-LET'S BUILD SOMETHING INTERESTING.
-<br> <a href="https://github.com/loydnyx"> <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-0B0F19?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+### Let's build something.
+
+<a href="https://github.com/loydnyx">
+<img
+src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"
+>
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=loydnyx&color=0e76a6&style=flat-square&label=PROFILE+VIEWS" />
+<img
+src="https://komarev.com/ghpvc/?username=loydnyx&color=0e76a6&style=flat-square&label=PROFILE+VIEWS"
+/>
 
 <br><br>
 
-JOHN LOYD UY · FULL-STACK DEVELOPER
+`JOHN LOYD UY` · `FULL-STACK DEVELOPER`
 
 </div>
