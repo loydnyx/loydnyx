@@ -2,9 +2,11 @@
 
 # ＪＯＨＮ　ＬＯＹＤ　ＵＹ．
 
-### IT GRADUATE · WEB DEVELOPMENT · UI/UX
+### FULL-STACK DEVELOPER · UI/UX · WEB DEVELOPMENT
 
-Building web applications, utility apps, and AI-assisted projects.
+IT Graduate building web applications, utility apps, and AI-assisted projects.
+
+</div>
 
 <br>
 
