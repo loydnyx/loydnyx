@@ -133,6 +133,8 @@ APIs, and modern web technologies.
 
 </div>
 
+---
+
 ## What I Build
 
 <table>
