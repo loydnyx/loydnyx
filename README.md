@@ -113,25 +113,54 @@ APIs, and modern web technologies.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" width="66%" valign="top">
 
 ### Web Applications
 
-Web applications built with modern web technologies, APIs, databases, and responsive interfaces.
+Building responsive web applications with modern frameworks,
+APIs, databases, authentication, and practical features.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 
-### Utility Apps
+### UI/UX
 
-Small applications built to solve specific tasks and everyday needs.
+Interfaces focused on clean layouts, typography,
+responsiveness, and visual design.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### Utility Apps
+
+Small applications designed to solve
+specific tasks and everyday needs.
+
+</td>
+
+<td width="33%" valign="top">
+
+### AI-Assisted Projects
+
+Exploring local AI, AI-assisted development,
+and practical AI features.
+
+</td>
+
+<td width="34%" valign="top">
+
+### Full-Stack
+
+Working across frontend, backend,
+databases, APIs, and deployment.
+
+</td>
+</tr>
+</table>
 
 ### AI-Assisted Projects
 
