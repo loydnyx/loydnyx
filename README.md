@@ -31,17 +31,15 @@ Exploring different tools and technologies to build practical solutions.
 
 </div>
 
----
+<br>
 
-<br><br>
-
-<img
-src="https://github.com/loydnyx/loydnyx/blob/main/Banner.gif"
-width="100%"
-alt="John Loyd Uy Developer Banner"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github.com/loydnyx/loydnyx/blob/main/Banner.gif"
+    width="100%"
+    alt="John Loyd Uy Developer Banner"
+  />
+</p>
 
 ---
 
