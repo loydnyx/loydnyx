@@ -62,6 +62,12 @@ APIs, and modern web technologies.
 
 ## Tech Stack
 
+<div align="center">
+
+<table width="75%">
+<tr>
+<td colspan="2" width="66%" valign="top">
+
 ### Frontend
 
 <p>
@@ -76,6 +82,10 @@ APIs, and modern web technologies.
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
 </p>
 
+</td>
+
+<td width="34%" valign="top">
+
 ### Backend & Database
 
 <p>
@@ -88,6 +98,12 @@ APIs, and modern web technologies.
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff">
 </p>
 
+</td>
+</tr>
+
+<tr>
+<td width="34%" valign="top">
+
 ### Cloud & Deployment
 
 <p>
@@ -97,6 +113,25 @@ APIs, and modern web technologies.
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=fff">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=fff">
 </p>
+
+</td>
+
+<td colspan="2" width="66%" valign="top">
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=fff">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=fff">
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ### Tools
 
