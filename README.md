@@ -166,7 +166,9 @@ databases, APIs, and deployment.
 
 ## GitHub Activity
 
-<table>
+<div align="center">
+
+<table width="75%">
 <tr>
 <td width="50%" valign="top">
 
@@ -194,7 +196,7 @@ databases, APIs, and deployment.
 
 <img
   src="https://streak-stats.demolab.com/?user=loydnyx&theme=tokyonight&hide_border=true"
-  width="75%"
+  width="85%"
   alt="GitHub Contribution Streak"
 />
 
@@ -202,11 +204,15 @@ databases, APIs, and deployment.
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## Currently Learning
 
-<table>
+<div align="center">
+
+<table width="75%">
 <tr>
 <td colspan="2" width="66%" valign="top">
 
@@ -247,6 +253,9 @@ Cloud platforms · Deployment
 </td>
 </tr>
 </table>
+
+</div>
+
 ---
 
 <div align="center">
