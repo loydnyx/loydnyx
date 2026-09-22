@@ -162,46 +162,45 @@ databases, APIs, and deployment.
 </tr>
 </table>
 
-### AI-Assisted Projects
+---
 
-Projects exploring local AI, AI-assisted development, and practical AI features.
+## GitHub Activity
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img
+  src="https://github-readme-stats.shion.dev/api?username=loydnyx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"
+  width="100%"
+  alt="GitHub Stats"
+/>
 
 </td>
 
 <td width="50%" valign="top">
 
-### UI/UX
-
-Interfaces focused on layout, typography, responsiveness, usability, and visual design.
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=loydnyx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
+  width="100%"
+  alt="Top Languages"
+/>
 
 </td>
 </tr>
-</table>
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.shion.dev/api?username=loydnyx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"
-  width="48%"
-/>
-
-<img
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=loydnyx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
-  width="48%"
-/>
-
-<br><br>
+<tr>
+<td colspan="2" align="center">
 
 <img
   src="https://streak-stats.demolab.com/?user=loydnyx&theme=tokyonight&hide_border=true"
   width="75%"
+  alt="GitHub Contribution Streak"
 />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -274,6 +273,7 @@ Interfaces focused on layout, typography, responsiveness, usability, and visual 
 
 <img
   src="https://komarev.com/ghpvc/?username=loydnyx&color=0e76a6&style=flat-square&label=PROFILE+VIEWS"
+  alt="Profile Views"
 />
 
 <br><br>
