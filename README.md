@@ -1,10 +1,10 @@
-<div align="center"> 
- 
-# ＪＯＨＮ　ＬＯＹＤ　ＵＹ． 
- 
-### FULL-STACK DEVELOPER · UI/UX · WEB DEVELOPMENT 
- 
-Building web applications, developer tools, and AI-assisted projects. 
+<div align="center">
+
+# ＪＯＨＮ　ＬＯＹＤ　ＵＹ．
+
+### IT GRADUATE · WEB DEVELOPMENT · UI/UX
+
+Building web applications, utility apps, and AI-assisted projects.
 
 <br>
 
@@ -35,16 +35,16 @@ alt="John Loyd Uy Developer Banner"
 
 ## About
 
-I'm a Full-Stack Developer focused on web development and UI/UX.
+I'm an IT Graduate focused on web development and UI/UX.
 
-I work with modern frontend technologies and build:
+I build and explore:
 
 - Web applications
-- Developer tools
 - Utility apps
 - AI-assisted projects
+- User interfaces and visual designs
 
-I also enjoy working on interface design, layout, and visual assets.
+I enjoy working with modern web technologies, building interfaces, and turning ideas into working applications.
 
 ---
 
@@ -105,15 +105,15 @@ I also enjoy working on interface design, layout, and visual assets.
 
 ### Web Applications
 
-React and Next.js applications with responsive layouts and modern UI.
+Web applications built with modern web technologies, APIs, databases, and responsive interfaces.
 
 </td>
 
 <td width="50%" valign="top">
 
-### Developer Tools
+### Utility Apps
 
-Small utilities and projects for development and daily use.
+Small applications built to solve specific tasks and everyday needs.
 
 </td>
 </tr>
@@ -121,9 +121,9 @@ Small utilities and projects for development and daily use.
 <tr>
 <td width="50%" valign="top">
 
-### AI Projects
+### AI-Assisted Projects
 
-Projects using local AI and AI-assisted development.
+Projects exploring local AI, AI-assisted development, and practical AI features.
 
 </td>
 
@@ -131,7 +131,7 @@ Projects using local AI and AI-assisted development.
 
 ### UI/UX
 
-Interfaces focused on layout, typography, usability, and visual design.
+Interfaces focused on layout, typography, responsiveness, usability, and visual design.
 
 </td>
 </tr>
@@ -174,6 +174,7 @@ width="75%"
 
 - React
 - Next.js
+- JavaScript
 - APIs
 - Databases
 - Application architecture
@@ -182,11 +183,10 @@ width="75%"
 
 <td width="50%" valign="top">
 
-### AI & Automation
+### AI
 
 - Local AI
-- AI development
-- Automation
+- AI-assisted development
 - AI-powered applications
 
 </td>
@@ -206,7 +206,7 @@ width="75%"
 
 <td width="50%" valign="top">
 
-### Tools
+### Tools & Workflow
 
 - Git
 - GitHub
@@ -237,6 +237,6 @@ src="https://komarev.com/ghpvc/?username=loydnyx&color=0e76a6&style=flat-square&
 
 <br><br>
 
-`JOHN LOYD UY` · `FULL-STACK DEVELOPER`
+`JOHN LOYD UY` · `IT GRADUATE`
 
 </div>
