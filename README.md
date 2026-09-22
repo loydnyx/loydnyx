@@ -1,4 +1,6 @@
-<p align="center">
+<div align="center">
+
+<p>
   <img
     src="https://github.com/loydnyx/loydnyx/blob/main/name.png"
     width="100%"
@@ -26,6 +28,10 @@ Exploring different tools and technologies to build practical solutions.
 <a href="https://www.instagram.com/wispy.loydd">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
+</div>
+
+---
 
 <br><br>
 
