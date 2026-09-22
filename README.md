@@ -1,13 +1,11 @@
-<div align="center">
-
-<h1 style="color:#00D9FF;">ＪＯＨＮ　ＬＯＹＤ　ＵＹ．</h1>
-
-<h3 style="color:#FFFFFF;">FULL-STACK DEVELOPER · UI/UX · WEB DEVELOPMENT</h3>
-
-<p style="color:#9CA3AF;">
-Building web applications, developer tools, and AI-assisted projects.
-</p>
-
+<div align="center"> 
+ 
+# ＪＯＨＮ　ＬＯＹＤ　ＵＹ． 
+ 
+### FULL-STACK DEVELOPER · UI/UX · WEB DEVELOPMENT 
+ 
+Building web applications, developer tools, and AI-assisted projects. 
+ 
 </div>
 
 <br>
