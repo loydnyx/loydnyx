@@ -1,6 +1,6 @@
 <div align="center">
 
-# JOHN LOYD UY HERE.
+# JOHN LOYD UY
 
 ### Full-Stack Developer · UI/UX · Web Development
 
