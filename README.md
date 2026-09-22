@@ -2,17 +2,9 @@
 
 <h1>JOHN LOYD UY.</h1>
 
-<p>
-<b>FULL-STACK DEVELOPER</b>
-&nbsp;·&nbsp;
-<b>UI/UX</b>
-&nbsp;·&nbsp;
-<b>WEB DEVELOPMENT</b>
-</p>
+<h3>FULL-STACK DEVELOPER · UI/UX · WEB DEVELOPMENT</h3>
 
-<p>
-Building web applications, utility apps, and AI-assisted projects.
-</p>
+<p>Building web applications, developer tools, and AI-assisted projects.</p>
 
 </div>
 
