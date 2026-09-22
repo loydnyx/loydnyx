@@ -5,8 +5,6 @@
 ### FULL-STACK DEVELOPER · UI/UX · WEB DEVELOPMENT 
  
 Building web applications, developer tools, and AI-assisted projects. 
- 
-</div>
 
 <br>
 
